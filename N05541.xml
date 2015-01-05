@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007025_0000_102AD2C595EA0BE0"/>
-            <pb facs="tcp:007025_0001_102AEBB598433268"/>
+            <pb facs="unknown:007025_0000_102AD2C595EA0BE0"/>
+            <pb facs="unknown:007025_0001_102AEBB598433268"/>
             <p>A <hi>CONFERENCE</hi>
             </p>
             <p>Held at St. <hi>George</hi>'s in the County of <hi>York,</hi> on the Twentieth Day of <hi>September, Anno Regni Regis</hi> GEORGII <hi>Secundi, Magnae Britanniae Franciae et Hiberniae, Viceſimo Septimo.</hi> Annoque Domini, 1753.</p>
@@ -129,7 +129,7 @@
       </front>
       <body>
          <div type="conference_account">
-            <pb n="3" facs="tcp:007025_0002_102AEBB7875BD9A0"/>
+            <pb n="3" facs="unknown:007025_0002_102AEBB7875BD9A0"/>
             <head>A CONFERENCE Held at St. <hi>George's,</hi> in the County of <hi>York,</hi> on the Twentieth Day of <hi>September, Anno Regni Regis</hi> GEORGII <hi>Secundi, Magnae Britanniae, Franciae et Hiberniae, Viceſimo Septimo.</hi> Annoque Domini, 1753.</head>
             <div type="day">
                <head>Thurſday, September 20th 1753.</head>
@@ -140,7 +140,7 @@
                   <p>Captain <hi>Joſeph Bean</hi> was ſworn to the faithful Diſcharge of the Truſt of an Interpreter at this preſent Conference, And,</p>
                   <p>Mr. <hi>Ezekiel Price</hi> was alſo ſworn to the faithful Diſcharge of the Truſt of a Clerk to the Commiſſioners.</p>
                   <p>
-                     <pb n="4" facs="tcp:007025_0003_102AEBB96D6BD2A8"/>
+                     <pb n="4" facs="unknown:007025_0003_102AEBB96D6BD2A8"/>
 After which, Sir <hi>William Pepperrell,</hi> in the Name of the Commiſſioners, ſpake to the Indians as follows, <hi>viz.</hi>
                   </p>
                   <p>
@@ -165,7 +165,7 @@ After which, Sir <hi>William Pepperrell,</hi> in the Name of the Commiſſioners
                   </sp>
                   <p>The Commiſſioners withdrew into the Fort, and in half an Hour after returned. When,</p>
                   <p>
-                     <pb n="5" facs="tcp:007025_0004_102AEBBAF92D9E78"/>
+                     <pb n="5" facs="unknown:007025_0004_102AEBBAF92D9E78"/>
                      <hi>Abenquit,</hi> In the Name of the Reſt of the <hi>Penobſcott</hi> Tribe, ſpake as follows.</p>
                   <p>
                      <hi>Brethren,</hi>
@@ -209,7 +209,7 @@ After which, Sir <hi>William Pepperrell,</hi> in the Name of the Commiſſioners
                      <speaker>Indians.</speaker>
                      <p>If we were not, we ſhould not have been here; nor have brought the Treaties with us.</p>
                      <p>
-                        <pb n="6" facs="tcp:007025_0005_102AEBBD375150E0"/>
+                        <pb n="6" facs="unknown:007025_0005_102AEBBD375150E0"/>
 We would ſay ſomething relating to our Miniſter: Has not our Prieſt wrote a Letter to Governor SHIRLEY? We deſire a Copy of it.</p>
                   </sp>
                   <sp>
@@ -266,7 +266,7 @@ We would ſay ſomething relating to our Miniſter: Has not our Prieſt wrote a 
                </div>
             </div>
             <div type="day">
-               <pb n="7" facs="tcp:007025_0006_102AEBBF5CFDD448"/>
+               <pb n="7" facs="unknown:007025_0006_102AEBBF5CFDD448"/>
                <head>
                   <hi>Friday,</hi> September 21.</head>
                <p>The Commiſſioners and Indians being met.</p>
@@ -309,7 +309,7 @@ We would ſay ſomething relating to our Miniſter: Has not our Prieſt wrote a 
                   <p>That Article is dearer we acknowledge; but we are ſo far from making any Advantage by it, that we ſend for it to <hi>New York,</hi> and purchaſe it with Dollars: Are at all this Trouble, and yet ſell it to you exactly as it coſt us, without the leaſt Advance.</p>
                </sp>
                <sp>
-                  <pb n="8" facs="tcp:007025_0007_102AEBC1A3DF7CA8"/>
+                  <pb n="8" facs="unknown:007025_0007_102AEBC1A3DF7CA8"/>
                   <speaker>Indians.</speaker>
                   <p>What was the Price of Spring Beaver formerly? And in what Proportion to other Things.</p>
                </sp>
@@ -357,7 +357,7 @@ We would ſay ſomething relating to our Miniſter: Has not our Prieſt wrote a 
                   <p>The Government has ſent us here, to hear any Grievances you may labour under, that the ſame may be redreſſed; and to do every Thing we can for your beſt Good and Intereſt.</p>
                </sp>
                <sp>
-                  <pb n="9" facs="tcp:007025_0008_102AEBC394338240"/>
+                  <pb n="9" facs="unknown:007025_0008_102AEBC394338240"/>
                   <speaker>Commiſſi.</speaker>
                   <p>Have you any Thing at preſent further to offer?</p>
                </sp>
@@ -376,7 +376,7 @@ We would ſay ſomething relating to our Miniſter: Has not our Prieſt wrote a 
                      <p>You find that the <hi>Engliſh</hi> have faithfully fulfill'd all their Promiſes with the <hi>Indians,</hi> and therefore juſtly expect the like Return from you; and in Conſequence hereof, that you uſe your beſt Endeavours that all our Captives may be forthwith reſtored, that ſo there may be no further Reaſon for Complaint on this Account.</p>
                      <p>You informed us Yeſterday that your Miniſter had been attempting to prejudice you againſt the <hi>Engliſh,</hi> inſinuating that there would ſoon be a War between the two Nations; and thereby would (if poſſible) have pre<g ref="char:EOLhyphen"/>vented your meeting the Commiſſioners at this Time; but that you was jealous of him, and believed him not to be a good Man, becauſe he had wrote to Governor SHIRLEY (as you were informed) on this Head. To which we reply, That it is abſolutely falſe and without the leaſt Foun<g ref="char:EOLhyphen"/>dation; for we do aſſure you, that there is at this Time a good Harmony ſubſiſting between the King of <hi>Great Britain,</hi> and the <hi>French</hi> King.</p>
                      <p>The Government of the <hi>Maſſachuſetts</hi> are fully ſenſible of the Artifices uſed by the <hi>French</hi> to raiſe Jealouſies and create Miſunderſtand<g ref="char:EOLhyphen"/>ings between the <hi>Engliſh</hi> and the <hi>Indians,</hi> and of the Methods the <hi>French</hi> uſe to defeat the Meaſures the <hi>Engliſh</hi> take for maintaining Peace and good Friendſhip: But as a Proof of our Sincerity, Governor SHIRLEY, 
-<pb n="10" facs="tcp:007025_0009_102AEBC592E864A0"/>
+<pb n="10" facs="unknown:007025_0009_102AEBC592E864A0"/>
 from a tender Regard to your Welfare, and to prevent your being any further impoſed upon by them, has ſent you a Letter by us, which we have Orders to have firſt interpreted, and then delivered you; as alſo another Letter which he received from the <hi>French</hi> Jeſuit (<hi>Pierre Gounon</hi>) your preſent Miniſter; by which you will ſee, he is not in the leaſt to be regarded, much leſs depended upon; and after ſuch clear and evident Demonſtrations of Friendſhip on our Side to you, in the foregoing In<g ref="char:EOLhyphen"/>ſtances, and our fulfilling our former Engagements of making you an annual Preſent as long as you ſhould continue in Amity with us, which we have hitherto done, and our being preſent at this Time to deſtribute the ſame for this Year: We ſay, after ſo many Inſtances of Sincerity and Friendſhip from us, it will diſcover a baſe and diſingenuous Spirit in you, not to reſent all the Artifices and Tricks of the <hi>French</hi> (in whom there is no Truſt) and maintain a conſtant Friendſhip with the <hi>Engliſh,</hi> who have always been your ſteady Friends; in which we apprehend your real Intereſt doth conſiſt.</p>
                   </q>
                </sp>
@@ -413,7 +413,7 @@ from a tender Regard to your Welfare, and to prevent your being any further impo
                <p>Then the Commiſſioners informed the Indians, that they would meet them again in the Afternoon, in order to ſign the Ratification of the Articles of PEACE, and deliver the Preſents ordered them by the Government.</p>
                <p>The Commiſſioners then drank King <hi>GEORGE</hi>'s Health, as alſo Governor SHIRLEY'S; and a laſting PEACE. Which were pledg'd by the Indians.</p>
                <div type="part">
-                  <pb n="11" facs="tcp:007025_0010_102AEBC7835C1798"/>
+                  <pb n="11" facs="unknown:007025_0010_102AEBC7835C1798"/>
                   <head>Poſt Meridiem.</head>
                   <p>The Commiſſioners and Indians being again met.</p>
                   <sp>
@@ -443,7 +443,7 @@ from a tender Regard to your Welfare, and to prevent your being any further impo
                </closer>
             </div>
             <div type="day">
-               <pb n="12" facs="tcp:007025_0011_102AEBC90EC03308"/>
+               <pb n="12" facs="unknown:007025_0011_102AEBC90EC03308"/>
                <head>Tuesday, September 25th 1753.</head>
                <p>AT two o'Clock, P.M. The Commiſſioners arriv'd at <hi>Richmond</hi> (on <hi>Kennebeck-River</hi>) and in about an Hour after their Arrival, <hi>Quaruet,</hi> a <hi>Norridgawock</hi> Indian, came down the River in a Canoe, and waited on the Commiſſioners on Board the Sloop, and inform<g ref="char:EOLhyphen"/>ed them, he believed the Indians of the <hi>Norridgawock</hi> Tribe were at <hi>Norridgawock,</hi> and did not expect the Arrival of the Commiſſio<g ref="char:EOLhyphen"/>ners ſo ſoon; but if they would allow him four Days he would go to <hi>Norridgawock</hi> and fetch them in. The Commiſſioners diſpatch'd him accordingly, with Orders to bring them in as ſoon as poſſible.</p>
             </div>
@@ -466,7 +466,7 @@ from a tender Regard to your Welfare, and to prevent your being any further impo
                <q rend="inline normQuotes">
                   <p>THE Reaſon of Governor SHIRLEY's not meeting You in Perſon this Year, is, his having been ſo long Abſent from his Go<g ref="char:EOLhyphen"/>vernment; and the Affairs of it at preſent not allowing Him to be here; We that are preſent, appear by his Order and Commiſſion, and come fully authorized and impowred to treat with you.</p>
                   <p>
-                     <pb n="13" facs="tcp:007025_0012_102AEBCB338BE470"/>
+                     <pb n="13" facs="unknown:007025_0012_102AEBCB338BE470"/>
 We are fully ſenſible of the Attempts the <hi>French</hi> by Means of their Miſſionaries among you, have been making from Time to Time, in order to create Jealouſies and Miſunderſtandings between the <hi>Engliſh</hi> and the <hi>Indians</hi>; and that <hi>Pierre Gounon,</hi> the Father of the <hi>Penobſcotts,</hi> hath lately been here, and would, if poſſible, have prevented your Attendance at this Conference, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> he would have done the <hi>Penobſcotts</hi> at St. <hi>George</hi>'s; notwithſtanding which, they readily met the Commiſſioners there, were pleaſed with that Interview; and we hope that you will take the Advice the <hi>Penobſcotts</hi> gave the Commiſſioners the laſt Week, not to mind him; that their Thoughts run much on him, and his deceiving them; and hoped that we would not regard him any more than <hi>they</hi> did, which was no more than Traſh: And we are well ſatisfied that before we Part, we ſhall produce ſuch Evidence of his Treachery, as ſhall convince you that he is a falſe Man; and that it will not be for your Credit to regard him, or what he ſays: But on the contrary, it will be your Intereſt to regard the <hi>Engliſh</hi> more than the <hi>French.</hi>
@@ -476,7 +476,7 @@ We are fully ſenſible of the Attempts the <hi>French</hi> by Means of their Mi
                   <p>As for our Friends in Captivity; We muſt remind you of your ſolemn Engagements to the Commiſſioners, that they ſhould be return'd by the laſt Spring at furtheſt; but they ſtill remain in the Hands of the <hi>French:</hi> This Conduct of yours, is baſe and unjuſt, and as ſuch, deſerves the higheſt Reſentments; and therefore, after all your Promiſes, We now demand of you the Reaſon why they are not returned? And unleſs you give us ſome ſatisfactory Account hereof, we muſt plainly tell you, that you have not fulfilled your Engagements; and that if they are not forth<g ref="char:EOLhyphen"/>with reſtored, we muſt look upon it as a Violation of the Ratification of Peace the laſt Year.</p>
                   <p>The Government according to their Promiſe, have conſidered your Complaints of the laſt Year, relating to ſome <hi>Engliſh</hi> Settlements making on <hi>Kennebeck-River,</hi> and were in hopes that what they had wrote you on this Head, would have been to Satisfaction; but if it is not, we truſt that in the Courſe of this Conference, we ſhall offer you ſuch Evidence of our Claim to thoſe Lands, as ſhall convince you that we have not done you any Injuſtice in what we have done; nor ſo much as deſign<g ref="char:EOLhyphen"/>ed it.</p>
                   <p>
-                     <pb n="14" facs="tcp:007025_0013_102AEBCDE56CA0A0"/>
+                     <pb n="14" facs="unknown:007025_0013_102AEBCDE56CA0A0"/>
 When we have gone through theſe Articles, and renewed the Peace ratified the laſt Year, and given you the Preſents deſigned you by the Government; we know of Nothing that will prevent our ſpeedy return to our ſeveral Homes; unleſs you have ſomething new to offer, which, if you have, we ſhall give it its due Weight and Conſideration; but as we have been ſo long from Home, we muſt inſiſt on the greateſt Diſpatch.</p>
                </q>
                <sp>
@@ -504,7 +504,7 @@ When we have gone through theſe Articles, and renewed the Peace ratified the la
                            <hi>Toxus</hi> is an old Man, and we believe will never be here.</p>
                         <p>Do not mind any Thing the Jeſuit ſays, we know it is Peace all over the World. We want no Jeſuits to meddle with Treaties. All we want of them is to pray with us, and take Care of our Souls. If any of our Jeſuits ſhould write any Thing concerning us, or Peace or War, if you will inform us of it, we will let you know whether it is true or falſe.</p>
                         <p>
-                           <pb n="15" facs="tcp:007025_0014_102AEBCF6F77CB60"/>
+                           <pb n="15" facs="unknown:007025_0014_102AEBCF6F77CB60"/>
 What this <hi>Penobſcott</hi> Jeſuit wrote is a Lye. We do not want War. We deſire to live in Peace. All that he has ſaid is falſe.</p>
                         <p>We have done with that Article.</p>
                      </q>
@@ -554,7 +554,7 @@ What this <hi>Penobſcott</hi> Jeſuit wrote is a Lye. We do not want War. We de
                      <p>It was early in the Spring.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:007025_0015_102AEBD1B7FD9288"/>
+                     <pb n="16" facs="unknown:007025_0015_102AEBD1B7FD9288"/>
                      <speaker>Commiſſi.</speaker>
                      <p>You are miſtaken, it was the middle of Summer. Be<g ref="char:EOLhyphen"/>ſides, Mr. <hi>Noble</hi> ſaw <hi>Mitchel</hi>'s Son at <hi>Montreal.</hi>
                      </p>
@@ -615,7 +615,7 @@ What this <hi>Penobſcott</hi> Jeſuit wrote is a Lye. We do not want War. We de
                      <p>It is true, we made a Promiſe to fetch in the Captives; there is but little Water now, we tho't they were returned. We are now going upon our Hunting, but in the Spring we will go to <hi>Canada,</hi> and talk with the <hi>French</hi> Governor, and do what we can to bring them in.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:007025_0016_102AEBD36707BEB8"/>
+                     <pb n="17" facs="unknown:007025_0016_102AEBD36707BEB8"/>
                      <speaker>Commiſſi.</speaker>
                      <p>Did not you ſell them to the <hi>French?</hi>
                      </p>
@@ -647,7 +647,7 @@ What this <hi>Penobſcott</hi> Jeſuit wrote is a Lye. We do not want War. We de
                      <p>Then that Part of Governor SHUTE'S Treaty which related to the Lands, was read and interpreted to the Indians; as alſo, that in Gover<g ref="char:EOLhyphen"/>nor DUMMER'S.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:007025_0017_102AEBD568E73CB8"/>
+                     <pb n="18" facs="unknown:007025_0017_102AEBD568E73CB8"/>
                      <speaker>Commiſſi.</speaker>
                      <p>You made the ſame Complaints reſpecting your Lands at the Treaty with Governor DUMMER, as you do now.</p>
                      <p>Are you not ſenſible that theſe Lands were ſold to the <hi>Engliſh</hi> by your Anceſtors, and fairly purchaſed by them?</p>
@@ -719,7 +719,7 @@ What this <hi>Penobſcott</hi> Jeſuit wrote is a Lye. We do not want War. We de
                      <p>Yes: We are ready to do it.</p>
                   </sp>
                   <p>
-                     <pb n="19" facs="tcp:007025_0018_102AEBD76B9E2340"/>
+                     <pb n="19" facs="unknown:007025_0018_102AEBD76B9E2340"/>
 Then the Commiſſioners acquainted the Indians that they would meet them in the Morning, in Order to ſign the aforeſaid Articles of Peace, and at the ſame Time would deliver them the Preſents ordered by the Government to be given them; and as a Signal of the Time of Meeting, would fire a great Gun.</p>
                   <p>Then King <hi>GEORGE</hi>'s Health was drank by the Commiſſioners; and the ſame Health was pledged by the Indians.</p>
                </div>
@@ -738,7 +738,7 @@ Then the Commiſſioners acquainted the Indians that they would meet them in the
                   <p>Being convinced of this, and the <hi>Engliſh</hi> Right to ſaid Land, you ceded them to the <hi>Engliſh</hi> by ſeveral Treaties formerly made, particularly by Governor SHUTE'S, and Governor DUMMER'S; and by other Treaties before their Time, which you have ſince confirmed.</p>
                   <p>The <hi>Engliſh</hi> therefore have an undoubted Right to all the aforeſaid Lands, and conſequently have a Right to ſettle them whenever they think proper: And it is expected by this Government, after giving you this Satisfaction, that you do not diſturb the <hi>Engliſh</hi> in any Settlements they are now about or may hereafter undertake on the Lands aforeſaid: And we on our Part promiſe you, that you ſhall not be interrupted in your Hunting &amp; Fiſhing; to which Purpoſe a Law of this Government has been made ſince the laſt Treaty, at your Deſire, forbidding under a very ſevere Penalty all the <hi>Engliſh</hi> from Hunting within ſaid Lands, or giving you the leaſt Interruption in that or any other Regard.</p>
                   <p>As to the Owners of theſe Lands, who you ſay are at <hi>Arraſagonticook,</hi> and elſewhere: We wiſh they were now here, that we might have an Opportunity of confering with them, and giving them the ſame Satis<g ref="char:EOLhyphen"/>faction 
-<pb n="20" facs="tcp:007025_0019_102AEBD9B87A82E8"/>
+<pb n="20" facs="unknown:007025_0019_102AEBD9B87A82E8"/>
 we have now given you: But we deſire you to inform them with what we have now told you, and we make not the leaſt Doubt, but that they will be entirely ſatisfied; eſpecially as we have no Deſign to abridge them of the Liberty of Hunting and Fiſhing, which is the only Uſe, either they or you, make of the ſaid Lands, and of the Waters.</p>
                </sp>
                <sp>
@@ -774,7 +774,7 @@ we have now given you: But we deſire you to inform them with what we have now t
                   <p>There have been a great many Governors at <hi>Boſton</hi>; we believe them to be all very Good</p>
                   <p>We have never heard that any of the Governors deſired the <hi>Engliſh</hi> might ſettle higher up than <hi>Richmond</hi>; altho' we have heard it from other People.</p>
                   <p>
-                     <pb n="21" facs="tcp:007025_0020_102AEBDB49D94938"/>
+                     <pb n="21" facs="unknown:007025_0020_102AEBDB49D94938"/>
 It would hurt us for you to ſettle higher up the River than the New-Fort: We are not againſt your going ſo far up, but are unwilling you ſhould go any further up.</p>
                   <p>We have wrote twice upon this Matter to <hi>Boſton,</hi> and now you hear it from our Mouths.</p>
                   <p>We hope you will think of what we have ſaid as to the Land; we are willing you ſhould ſettle all the Lands below the New-Fort, and hope you will go on in ſettling them with Courage and a good Spirit: You have Land enough below the New-Fort, without going any fur<g ref="char:EOLhyphen"/>ther up.</p>
@@ -804,7 +804,7 @@ It would hurt us for you to ſettle higher up the River than the New-Fort: We ar
                   <p>Upon the whole of what you have ſaid; you don't pretend to deny, but that the Purchaſes made by the <hi>Engliſh</hi> were fair and honeſt.</p>
                </sp>
                <sp>
-                  <pb n="22" facs="tcp:007025_0021_102AEBDD4D2D3AE0"/>
+                  <pb n="22" facs="unknown:007025_0021_102AEBDD4D2D3AE0"/>
                   <speaker>Indians.</speaker>
                   <p>We don't think theſe Deeds are falſe; but we apprehend you got the Indians drunk, and ſo took the Advantage of them, when you bought the Lands.</p>
                </sp>
@@ -861,7 +861,7 @@ It would hurt us for you to ſettle higher up the River than the New-Fort: We ar
                   <p>We are fully ſatisfied theſe Lands were fairly purchaſed of the Indians: We deſire you will enquire and ſearch into it, and then we doubt not, but you will be ſatisfied of the Juſtice of our Claim; and that we ſhall live in Peace and like Brethren.</p>
                </sp>
                <sp>
-                  <pb n="23" facs="tcp:007025_0022_102AEBDF5A790210"/>
+                  <pb n="23" facs="unknown:007025_0022_102AEBDF5A790210"/>
                   <speaker>Indians.</speaker>
                   <p>We will enquire of our old Men, and make what Enquiry we can reſpecting the Lands; and what we hear and ſee, will inform you of.</p>
                </sp>
@@ -901,7 +901,7 @@ It would hurt us for you to ſettle higher up the River than the New-Fort: We ar
             </div>
          </div>
          <div type="letter">
-            <pb n="24" facs="tcp:007025_0023_102AEBE1A3C32AA8"/>
+            <pb n="24" facs="unknown:007025_0023_102AEBE1A3C32AA8"/>
             <head>His Excellency's LETTER to the <hi>Penobſcott</hi> and <hi>Nor<g ref="char:EOLhyphen"/>ridgawock</hi> Tribes of Indians, referred to in the fore<g ref="char:EOLhyphen"/>going Conferences, is as follows.</head>
             <p>
                <hi>Brethren of Penobſcott and Norridgawock,</hi>
@@ -911,7 +911,7 @@ It would hurt us for you to ſettle higher up the River than the New-Fort: We ar
             <p>In Anſwer to theſe Letters, I informed you in mine dated the 11th of <hi>Auguſt,</hi> of my Arrival at <hi>Boſton</hi>; and that the Buſineſs of my Go<g ref="char:EOLhyphen"/>vernment would not permit me to meet you in Perſon this Year; but that I ſhould endeavour to ſend Commiſſioners to you as early as poſſible, with the Preſents which this Government hath agreed to diſtribute an<g ref="char:EOLhyphen"/>nually among you, ſo long as you ſhall maintain good Faith &amp; Friend<g ref="char:EOLhyphen"/>ſhip with it. And I have ſince receiv'd Letters from you in Anſwer to it, dated <hi>Auguſt</hi> 23d from St. <hi>George</hi>'s, and the 20th from <hi>Richmond,</hi> wherein you tell me, you rejoice at my Return from <hi>Great Britain,</hi> that you are ſorry the Buſineſs of my Government will not admit of my meeting you this Year, that you like the Contents of my Letter very much, and de<g ref="char:EOLhyphen"/>ſire that the Commiſſioners may be ſent to you early in this Month, which Time the <hi>Norridgawock</hi> Tribe inform me, will ſuit the St. <hi>Francois</hi> Indians well, ſome of them ſent me at the ſame Time a Preſent of a String of Wampum, as a Token of Friendſhip from their Tribe, who deſire to be admitted to the Conference and Treaty with us.</p>
             <p>According to your Deſire, <hi>Brethren,</hi> and my Promiſe to you, I now ſend you Commiſſioners to brighten the Covenant Chain between us, and to diſtribute the Preſents among you, as ſoon as I poſſibly could.</p>
             <p>
-               <pb n="25" facs="tcp:007025_0024_102AEBE33090DC80"/>
+               <pb n="25" facs="unknown:007025_0024_102AEBE33090DC80"/>
 I muſt now, <hi>Brethren,</hi> acquaint you that I have receiv'd a Letter from the Jeſuit <hi>Pierre <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>,</hi> the French Miſſionary to <hi>Penobſcott</hi> Tribe, dated the 25th of <hi>August</hi> juſt from St. <hi>George's</hi> Fort, in which he tells me, <q>That he underſtands I deſign to have a Treaty with you, and deſires me not to mention <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -921,7 +921,7 @@ I muſt now, <hi>Brethren,</hi> acquaint you that I have receiv'd a Letter from 
             <p>This Letter and Suggeſtions of the Jeſuit, <hi>Brethren,</hi> the plain Deſign of which is to prevent this Government from having any Treaty with you, and conſequently from making you the Preſents which they have promiſed to give you from Year to Year; being ſo contrary to your De<g ref="char:EOLhyphen"/>ſire expreſs'd in your Letter to me, and to the Friendſhip which this Government hath for you, and is deſirous to maintain with you: I thought proper, tho' this Prieſt, deſires they may be kept ſecret from you, to communicate to you by the Commiſſioners, that you may judge for your ſelves, Whether inſtead of uſing his Endeavours to preſerve Peace between us, as he ſolemnly profeſſes in his Letter, he is not uſing Artifices to break it; Whether he is really ſeeking to promote your Welfare by doing thus, or the Intereſt of the <hi>French</hi> at your Coſt, and How far you may confide in the Sincerity of this holy Father your Confeſſor.</p>
             <p>I can further aſſure, <hi>Brethren,</hi> that this Prieſt's Suggeſtion, that War will ſoon break out between the two Nations, is groundleſs, and that there was no Sign of it in <hi>France,</hi> whilſt I was there about a Year ago, nor in <hi>England,</hi> which I left a few Months ſince: I doubt not but the <hi>French</hi> may be deſirous of involving you and us in a War, if they can, by their Artifices; but I have Reaſon to think, that they will not be fond of en<g ref="char:EOLhyphen"/>tering into a War themſelves with us very ſoon, leaſt they ſhould looſe <hi>Canada</hi> in it, as they did <hi>Cape-Breton</hi> in the laſt.</p>
             <p>
-               <pb n="26" facs="tcp:007025_0025_102AEBE4D56A50A8"/>
+               <pb n="26" facs="unknown:007025_0025_102AEBE4D56A50A8"/>
 I have only to add, that if the Buſineſs of my Government will permit, I will endeavour to have the Satisfaction of an Interview with you my<g ref="char:EOLhyphen"/>ſelf the next Year, and recommend it to you, to preſerve Peace and good Faith with us in the mean Time, in which Caſe you may depend upon all reaſonable Acts of Kindneſs and Friendſhip on the Part of this Government, for promoting your Welfare and Proſperity.</p>
             <closer>
                <signed>I am, Brethren, Your aſſured Friend, W. SHIRLEY.</signed>
